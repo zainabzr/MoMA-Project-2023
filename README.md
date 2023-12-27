@@ -1,2 +1,7 @@
-# MoMA-Project-2023
-A data analysis and visualization project on gender and nationality representation in the halls of MoMA. Utilizes Pandas, Matplotlib, Seaborn, Squarify, and Plotly using the official MoMA dataset, available on GitHub.
+# Exploring Gender and Nationality Narratives in the Halls of MoMA
+A data analysis and visualization project on gender and nationality representation in the halls of MoMA. Utilizes Pandas, Matplotlib, Seaborn, Squarify, and Plotly using the [official MoMA dataset on GitHub](https://github.com/MuseumofModernArt/collection).
+
+Art often reflects the societal contexts of its time. Today's times are marked by melting pots and social consciousness, and art curation has grown to have more inclusive representation. In 2019, one of the most famous art museums in the world, the Museum of Modern Art, shook the art world with the announcement that it would remain closed for four months to make sweeping changes that align with its efforts towards inclusivity and diversity (Cafolia, 2019). This project aims to examine trends in the acquisition of art by the MoMA through the lens of Gender and Nationality. This was the first end-to-end project I did using Python for a Data Science certification offered by my alma mater in the Summer of 2023.
+
+This project can be viewed on my [Medium](https://medium.com/@znbzr/exploring-gender-and-nationality-narratives-in-the-halls-of-moma-db98d1dd511c). This repository hosts the code used for data pre-processing and visualization. At the time of this project, the Artworks.csv file contained 140,848 records representing all the art pieces cataloged into the MoMA database.
+
